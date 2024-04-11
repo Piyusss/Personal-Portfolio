@@ -299,8 +299,11 @@ img {
 .skills__js {
   width: 65%;
 }
-.skills__ux {
-  width: 85%;
+.skills__njs {
+  width: 75%;
+}
+.skills__fgma {
+  width: 80%;
 }
 .skills__img {
   border-radius: 0.5rem;
