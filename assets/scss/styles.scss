@@ -12,6 +12,8 @@
     --hue-color: 224;
     --first-color: hsl(var(--hue-color), 89%, 60%);
     --second-color: hsl(var(--hue-color), 56%, 12%);
+    --huetest-color: 130;
+    --test-color: hsl(var(--huetest-color), 89%, 60%);
 
     /*===== Fuente y tipografia =====*/
     --body-font: 'Poppins', sans-serif;
@@ -296,7 +298,7 @@ img{
         position: absolute;
         left: 0;
         bottom: 0;
-        background-color: var(--first-color);
+        background-color: var(--test-color);
         height: .25rem;
         border-radius: .5rem;
         z-index: var(--z-back);
